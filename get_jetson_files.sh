@@ -10,7 +10,7 @@
 # First check to see if we're running on Ubuntu
 # Next, check the architecture to make sure it's not aarch64, not a Jetson
 
-JETSON_FOLDER=R35.4.1
+JETSON_FOLDER=R36.2
 
 
 function help_func
